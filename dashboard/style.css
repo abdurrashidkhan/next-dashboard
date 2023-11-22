@@ -1,0 +1,18 @@
+@media only screen and (max-width: 389px) {
+  #dashboard_menu_icon {
+    top: 11%;
+    left: 5%;
+  }
+}
+@media only screen and (min-width: 390px) {
+  #dashboard_menu_icon {
+    top: 8%;
+    left: 5%;
+  }
+}
+
+@media only screen and (max-width: 575px) {
+  #dashboard_content {
+    padding-top: -5px;
+  }
+}
